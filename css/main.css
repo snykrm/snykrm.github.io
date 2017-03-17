@@ -7,9 +7,21 @@ header{
 main{
     background-color: #00008b;
 }
+#snykrmIntro {
+    background-color: #ffff00;
+}
+#snykrmFilter {
+    background-color: #000000;
+}
+#snykrmContent{
+    background-color: #667588;
+}
+.recipeButton {
+    background-color: #ffffff;
+}
 footer{
-    background-color: #440044
+    background-color: #440044;
 }
 .container{
-    background-color: #336655
+    background-color: #336655;
 }
