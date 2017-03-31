@@ -1,27 +1,34 @@
 body{
-    background-color: #00ffff;
+    background-color: #99aa97;
 }
 header{
-    background-color: #cc2222;
+    background-color: #f9f5e6;
+    border-bottom: 5px ridge #587c7e;
 }
 main{
-    background-color: #00008b;
-}
-#snykrmIntro {
-    background-color: #ffff00;
-}
-#snykrmFilter {
-    background-color: #000000;
-}
-#snykrmContent{
-    background-color: #667588;
+    background-color: #99aa97;
 }
 .recipeButton {
-    background-color: #ffffff;
+    background-color: #694429;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #555555;
+    margin: 35px;
+    padding: 10px;
+    display: block;
+    float: left;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+#snykrmContent {
+    padding: 25px;
 }
 footer{
-    background-color: #440044;
+    background-color: #f9f5e6;
+    border-top: 5px groove #587c7e;
+    text-align: center;
 }
 .container{
-    background-color: #336655;
+    background-color: #99aa97;
 }
+
